@@ -13,7 +13,7 @@ export const metadata: Metadata = generateMetadata({
   title: 'Fly Elite - Private Jet Morocco | Jet Privé Maroc #1',
   description: 'Aviation d\'affaires au Maroc. Réservez votre jet privé en 5 minutes au meilleur prix. Plus de 300 aéroports disponibles. Private jet Morocco leader.',
   keywords: 'jet privé maroc, private jet morocco, aviation affaires maroc, charter flight morocco, vol privé maroc, business aviation morocco, jet charter maroc',
-  canonical: 'https://flyelite.ma'
+  canonical: 'https://flyelitemorocco.com'
 })
 
 export default function HomePage() {

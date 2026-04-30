@@ -70,8 +70,8 @@ export const organizationStructuredData = {
   '@type': 'Organization',
   name: 'Fly Elite',
   description: 'Aviation d\'affaires au Maroc - Private jet services in Morocco',
-  url: 'https://flyelite.ma',
-  logo: 'https://flyelite.ma/iconflyelite.svg',
+  url: 'https://flyelitemorocco.com',
+  logo: 'https://flyelitemorocco.com/iconflyelite.svg',
   contactPoint: {
     '@type': 'ContactPoint',
     telephone: '+212-XXX-XXXXXX',
@@ -92,10 +92,10 @@ export const organizationStructuredData = {
 export const localBusinessStructuredData = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
-  '@id': 'https://flyelite.ma/#organization',
+  '@id': 'https://flyelitemorocco.com/#organization',
   name: 'Fly Elite',
   description: 'Aviation d\'affaires au Maroc - Private jet charter services',
-  url: 'https://flyelite.ma',
+  url: 'https://flyelitemorocco.com',
   telephone: '+212-XXX-XXXXXX',
   priceRange: '€€€€',
   address: {
@@ -185,12 +185,12 @@ export function generateArticleStructuredData(post: any, language: 'fr' | 'en' =
       name: 'Fly Elite',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://flyelite.ma/iconflyelite.svg'
+        url: 'https://flyelitemorocco.com/iconflyelite.svg'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://flyelite.ma/blog/${post.slug}`
+      '@id': `https://flyelitemorocco.com/blog/${post.slug}`
     }
   }
 }

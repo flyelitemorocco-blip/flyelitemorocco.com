@@ -17,7 +17,7 @@ Allow: /faq
 Allow: /notre-concept
 
 # Sitemap
-Sitemap: https://flyelite.ma/sitemap.xml
+Sitemap: https://flyelitemorocco.com/sitemap.xml
 
 # Crawl-delay for respectful crawling
 Crawl-delay: 1`

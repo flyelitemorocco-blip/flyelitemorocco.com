@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     title: `${post.title.fr} | Blog Fly Elite - Private Jet Morocco`,
     description: post.excerpt.fr,
     keywords: `${post.tags.fr.join(', ')}, blog aviation privée maroc, private jet morocco blog`,
-    canonical: `https://flyelite.ma/blog/${post.slug}`,
+    canonical: `https://flyelitemorocco.com/blog/${post.slug}`,
     ogImage: post.image
   })
 }
@@ -37,9 +37,9 @@ export default function BlogPostLayout({ children, params }: Props) {
   const post = blogPosts.find(p => p.slug === params.slug)
   
   const breadcrumbItems = [
-    { name: 'Accueil', url: 'https://flyelite.ma' },
-    { name: 'Blog', url: 'https://flyelite.ma/blog' },
-    { name: post?.title.fr || 'Article', url: `https://flyelite.ma/blog/${params.slug}` }
+    { name: 'Accueil', url: 'https://flyelitemorocco.com' },
+    { name: 'Blog', url: 'https://flyelitemorocco.com/blog' },
+    { name: post?.title.fr || 'Article', url: `https://flyelitemorocco.com/blog/${params.slug}` }
   ]
   
   return (

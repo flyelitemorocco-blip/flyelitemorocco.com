@@ -42,7 +42,7 @@ SMTP_PASS=votre-mot-de-passe
 
 # Configuration Email
 EMAIL_FROM="Fly Elite <no-reply@flyelite.fr>"
-EMAIL_TO=contact@flyelite.ma
+EMAIL_TO=flyelite.morocco@gmail.com
 
 # Configuration Marque
 BRAND_NAME="Fly Elite"
@@ -101,7 +101,7 @@ Toutes les données sont éditables dans le dossier `data/` :
   },
   "contact": {
     "phones": ["+212 689 33 02 02", "+33 744 96 62 68"],
-    "email": "contact@flyelite.ma",
+    "email": "flyelite.morocco@gmail.com",
     "address": "66, Av de France et 37, Av Ibn Sina...",
     "social": {
       "instagram": "https://instagram.com/flyelite",

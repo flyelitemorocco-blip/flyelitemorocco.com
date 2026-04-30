@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     title: `Jet Privé ${fromCity} - ${toCity} | ${offer.aircraft} - Fly Elite`,
     description: `Vol privé ${fromCity} vers ${toCity} avec ${offer.aircraft}. ${offer.seats} places disponibles. Réservez votre jet privé au Maroc dès ${offer.price.amount}€.`,
     keywords: `jet privé ${fromCity} ${toCity}, private jet ${fromCity} ${toCity}, vol charter ${fromCity}, ${offer.aircraft} charter, aviation affaires maroc`,
-    canonical: `https://flyelite.ma/offres/${offer.slug}`,
+    canonical: `https://flyelitemorocco.com/offres/${offer.slug}`,
     ogImage: offer.gallery?.[0] || '/og-image.png'
   })
 }

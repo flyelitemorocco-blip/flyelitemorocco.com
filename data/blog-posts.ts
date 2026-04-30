@@ -334,7 +334,7 @@ Chaque client bénéficie d'un coordinateur dédié qui :
 
 Notre équipe est joignable :
 - Par téléphone : +212 689-330202
-- Par email : contact@flyelite.ma
+- Par email : flyelite.morocco@gmail.com
 - Via WhatsApp
 - Chat en direct sur notre site
 
@@ -504,7 +504,7 @@ Each client benefits from a dedicated coordinator who:
 
 Our team is reachable:
 - By phone: +212 689-330202
-- By email: contact@flyelite.ma
+- By email: flyelite.morocco@gmail.com
 - Via WhatsApp
 - Live chat on our website
 

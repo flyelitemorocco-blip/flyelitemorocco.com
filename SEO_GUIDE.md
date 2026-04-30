@@ -21,7 +21,7 @@ This guide covers the comprehensive SEO implementation for Fly Elite, targeting 
   - Includes all static pages (home, offers, blog, contact, FAQ, concept)
   - Proper priority and change frequency settings
   - Multilingual support (hreflang)
-- **URL**: `https://flyelite.ma/sitemap.xml`
+- **URL**: `https://flyelitemorocco.com/sitemap.xml`
 
 #### ✅ Robots.txt
 - **Location**: `/app/robots.txt/route.ts`
@@ -30,7 +30,7 @@ This guide covers the comprehensive SEO implementation for Fly Elite, targeting 
   - Blocks admin and API routes
   - References sitemap
   - Respectful crawl-delay
-- **URL**: `https://flyelite.ma/robots.txt`
+- **URL**: `https://flyelitemorocco.com/robots.txt`
 
 #### ✅ Favicon & PWA Manifest
 - **Files**: 
@@ -114,7 +114,7 @@ NEXT_PUBLIC_GTM_ID=GTM-XXXXXXX
 
 2. **Submit sitemap**:
    - Go to Google Search Console
-   - Add sitemap: `https://flyelite.ma/sitemap.xml`
+   - Add sitemap: `https://flyelitemorocco.com/sitemap.xml`
 
 3. **Monitor indexing**:
    - Check "Coverage" report
@@ -240,7 +240,7 @@ NEXT_PUBLIC_GTM_ID=GTM-XXXXXXX
 
 ```bash
 # Check sitemap generation
-curl https://flyelite.ma/sitemap.xml
+curl https://flyelitemorocco.com/sitemap.xml
 
 # Validate structured data
 # Use: https://search.google.com/test/rich-results

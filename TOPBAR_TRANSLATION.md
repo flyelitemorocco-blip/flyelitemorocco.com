@@ -10,12 +10,12 @@ The top bar text is now fully bilingual and will change when users switch langua
 
 **French:**
 ```
-Devise : MAD — Une question ? N'hésitez pas à nous contacter au +212 689 33 02 02 - +33 744 96 62 68 - +1 514 210 9209 ou contact@flyelite.ma
+Devise : MAD — Une question ? N'hésitez pas à nous contacter au +212 689 33 02 02 - +33 744 96 62 68 - +1 514 210 9209 ou flyelite.morocco@gmail.com
 ```
 
 **English:**
 ```
-Currency: MAD — Any questions? Feel free to contact us at +212 689 33 02 02 - +33 744 96 62 68 - +1 514 210 9209 or contact@flyelite.ma
+Currency: MAD — Any questions? Feel free to contact us at +212 689 33 02 02 - +33 744 96 62 68 - +1 514 210 9209 or flyelite.morocco@gmail.com
 ```
 
 ## 📁 Files Modified

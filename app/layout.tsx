@@ -15,12 +15,12 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-sans' })
 
 export const metadata: Metadata = {
   ...generateMetadata(defaultSEO),
-  metadataBase: new URL('https://flyelite.ma'),
+  metadataBase: new URL('https://flyelitemorocco.com'),
   alternates: {
-    canonical: 'https://flyelite.ma',
+    canonical: 'https://flyelitemorocco.com',
     languages: {
-      'fr': 'https://flyelite.ma',
-      'en': 'https://flyelite.ma',
+      'fr': 'https://flyelitemorocco.com',
+      'en': 'https://flyelitemorocco.com',
     },
   },
   verification: {
