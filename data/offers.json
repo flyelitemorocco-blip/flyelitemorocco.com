@@ -1,0 +1,207 @@
+[
+  {
+    "id": "porto-manchester-2025-11-19",
+    "slug": "porto-manchester-19-nov",
+    "date": "2025-11-19",
+    "from": "OPO",
+    "to": "MAN",
+    "aircraft": "Embraer Phenom 300",
+    "seats": 6,
+    "flightTimeMin": 180,
+    "schedule": {
+      "depart": "18:00",
+      "arrive": "20:00"
+    },
+    "price": {
+      "currency": "EUR",
+      "amount": 15210
+    },
+    "gallery": [
+      "/assets/images/offers/Embraer Phenom 300/1.png",
+      "/assets/images/offers/Embraer Phenom 300/2.png",
+      "/assets/images/offers/Embraer Phenom 300/3.png"
+    ],
+    "featured": true
+  },
+  {
+    "id": "medical-flight-worldwide",
+    "slug": "vol-sanitaire-mondial",
+    "date": "N'importe quand",
+    "from": "from any where",
+    "to": "to any where",
+    "aircraft": "Citation CJ3 Médicalisé",
+    "seats": 2,
+    "flightTimeMin": 0,
+    "schedule": {
+      "depart": "Disponible 24h/24",
+      "arrive": ""
+    },
+    "price": {
+      "currency": "EUR",
+      "amount": 0
+    },
+    "gallery": [
+      "/assets/images/offers/Avion Sanitaire/1.png",
+      "/assets/images/offers/Avion Sanitaire/2.png",
+      "/assets/images/offers/Avion Sanitaire/3.png"
+    ],
+    "featured": true,
+    "isMedical": true,
+    "medicalDetails": {
+      "type": "Vol Sanitaire / Avion Ambulance",
+      "description": "Transport médical sécurisé avec équipe médicale complète et équipements de soins intensifs à bord",
+      "equipment": [
+        "Unité de soins intensifs Lifeport avec matelas coquille",
+        "Réservoir d'oxygène centralisé (6000+ litres)",
+        "Moniteur de transport médical multiparamètres",
+        "Respirateur artificiel pour modes de respiration complexes",
+        "Électrocardiographe multifonction 12 canaux",
+        "Défibrillateur/système de surveillance compact",
+        "Téléphone satellite pour communications mondiales"
+      ],
+      "crew": [
+        "Médecin spécialisé en soins d'urgence et intensifs",
+        "Assistant paramédical qualifié",
+        "Pilotes expérimentés certifiés vols médicaux"
+      ],
+      "services": [
+        "Disponibilité 24h/24, 7j/7",
+        "Départ de l'aéroport le plus proche de l'hôpital",
+        "Transfert 'de lit à lit' avec ambulance terrestre",
+        "Ajustement de la pression cabine (vol sea level si nécessaire)",
+        "Surveillance médicale constante durant le vol",
+        "Coordination avec établissements de santé",
+        "Service traduction et gestion documents médicaux"
+      ],
+      "suitableFor": [
+        "Rapatriements sanitaires internationaux",
+        "Évacuations médicales urgentes",
+        "Transferts inter-hospitaliers pour soins spécialisés",
+        "Patients en soins intensifs",
+        "Patients sous assistance respiratoire",
+        "Transport de patients avec monitoring constant",
+        "Voyages médicaux planifiés pour traitements à l'étranger"
+      ]
+    }
+  },
+  {
+    "id": "nice-fes-2025-11-19",
+    "slug": "nice-fes-19-nov",
+    "date": "2025-11-19",
+    "from": "NCE",
+    "to": "FEZ",
+    "aircraft": "Citation CJ3",
+    "seats": 7,
+    "flightTimeMin": 150,
+    "schedule": {
+      "depart": "14:00",
+      "arrive": "16:30"
+    },
+    "price": {
+      "currency": "EUR",
+      "amount": 13065
+    },
+    "gallery": [
+      "/assets/images/offers/Citation CJ3/1.png",
+      "/assets/images/offers/Citation CJ3/2.png",
+      "/assets/images/offers/Citation CJ3/3.png"
+    ],
+    "featured": true
+  },
+  {
+    "id": "bruxelles-catania-2025-11-30",
+    "slug": "bruxelles-catania-30-nov",
+    "date": "2025-11-30",
+    "from": "BRU",
+    "to": "CTA",
+    "aircraft": "Hawker 900XP",
+    "seats": 8,
+    "flightTimeMin": 165,
+    "schedule": {
+      "depart": "09:00",
+      "arrive": "11:45"
+    },
+    "price": {
+      "currency": "EUR",
+      "amount": 16315
+    },
+    "gallery": [
+      "/assets/images/offers/Hawker 900XP/1.png",
+      "/assets/images/offers/Hawker 900XP/2.png",
+      "/assets/images/offers/Hawker 900XP/3.png"
+    ],
+    "featured": true
+  },
+  {
+    "id": "amsterdam-cracovie-2025-12-01",
+    "slug": "amsterdam-cracovie-01-dec",
+    "date": "2025-12-01",
+    "from": "AMS",
+    "to": "KRK",
+    "aircraft": "Cessna Citation XLS",
+    "seats": 8,
+    "flightTimeMin": 120,
+    "schedule": {
+      "depart": "10:30",
+      "arrive": "12:30"
+    },
+    "price": {
+      "currency": "EUR",
+      "amount": 19240
+    },
+    "gallery": [
+      "/assets/images/offers/Cessna Citation XLS/1.png",
+      "/assets/images/offers/Cessna Citation XLS/2.png",
+      "/assets/images/offers/Cessna Citation XLS/3.png"
+    ],
+    "featured": true
+  },
+  {
+    "id": "paris-dubai-2025-12-02",
+    "slug": "paris-dubai-02-dec",
+    "date": "2025-12-02",
+    "from": "LBG",
+    "to": "DWC",
+    "aircraft": "Gulfstream G550",
+    "seats": 12,
+    "flightTimeMin": 390,
+    "schedule": {
+      "depart": "22:00",
+      "arrive": "06:30"
+    },
+    "price": {
+      "currency": "EUR",
+      "amount": 71305
+    },
+    "gallery": [
+      "/assets/images/offers/Gulfstream G550/1.png",
+      "/assets/images/offers/Gulfstream G550/2.png",
+      "/assets/images/offers/Gulfstream G550/3.png"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gibraltar-dubai-2025-11-11",
+    "slug": "gibraltar-dubai-11-dec",
+    "date": "2025-12-11",
+    "from": "GPA",
+    "to": "DWC",
+    "aircraft": "Bombardier Global 6000",
+    "seats": 14,
+    "flightTimeMin": 420,
+    "schedule": {
+      "depart": "20:00",
+      "arrive": "05:00"
+    },
+    "price": {
+      "currency": "EUR",
+      "amount": 56680
+    },
+    "gallery": [
+      "/assets/images/offers/Bombardier Global 6000/1.png",
+      "/assets/images/offers/Bombardier Global 6000/2.png",
+      "/assets/images/offers/Bombardier Global 6000/3.png"
+    ],
+    "featured": false
+  }
+]
