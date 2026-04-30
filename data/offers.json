@@ -1,8 +1,8 @@
 [
   {
-    "id": "porto-manchester-2025-11-19",
-    "slug": "porto-manchester-19-nov",
-    "date": "2025-11-19",
+    "id": "porto-manchester-2025-05-19",
+    "slug": "porto-manchester-19-may",
+    "date": "2025-05-19",
     "from": "OPO",
     "to": "MAN",
     "aircraft": "Embraer Phenom 300",
@@ -85,9 +85,9 @@
     }
   },
   {
-    "id": "nice-fes-2025-11-19",
-    "slug": "nice-fes-19-nov",
-    "date": "2025-11-19",
+    "id": "nice-fes-2025-05-19",
+    "slug": "nice-fes-19-may",
+    "date": "2025-05-19",
     "from": "NCE",
     "to": "FEZ",
     "aircraft": "Citation CJ3",
@@ -109,9 +109,9 @@
     "featured": true
   },
   {
-    "id": "bruxelles-catania-2025-11-30",
-    "slug": "bruxelles-catania-30-nov",
-    "date": "2025-11-30",
+    "id": "bruxelles-catania-2025-05-30",
+    "slug": "bruxelles-catania-30-may",
+    "date": "2025-05-30",
     "from": "BRU",
     "to": "CTA",
     "aircraft": "Hawker 900XP",
@@ -133,9 +133,9 @@
     "featured": true
   },
   {
-    "id": "amsterdam-cracovie-2025-12-01",
-    "slug": "amsterdam-cracovie-01-dec",
-    "date": "2025-12-01",
+    "id": "amsterdam-cracovie-2025-06-01",
+    "slug": "amsterdam-cracovie-01-jun",
+    "date": "2025-06-01",
     "from": "AMS",
     "to": "KRK",
     "aircraft": "Cessna Citation XLS",
@@ -157,9 +157,9 @@
     "featured": true
   },
   {
-    "id": "paris-dubai-2025-12-02",
-    "slug": "paris-dubai-02-dec",
-    "date": "2025-12-02",
+    "id": "paris-dubai-2025-06-02",
+    "slug": "paris-dubai-02-jun",
+    "date": "2025-06-02",
     "from": "LBG",
     "to": "DWC",
     "aircraft": "Gulfstream G550",
@@ -181,9 +181,9 @@
     "featured": false
   },
   {
-    "id": "gibraltar-dubai-2025-11-11",
-    "slug": "gibraltar-dubai-11-dec",
-    "date": "2025-12-11",
+    "id": "gibraltar-dubai-2025-06-11",
+    "slug": "gibraltar-dubai-05-jun",
+    "date": "2025-06-11",
     "from": "GPA",
     "to": "DWC",
     "aircraft": "Bombardier Global 6000",
