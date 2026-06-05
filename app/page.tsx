@@ -25,7 +25,7 @@ export default function HomePage() {
           __html: JSON.stringify(localBusinessStructuredData),
         }}
       />
-      <Hero />x
+      <Hero />
       <OffersCarousel />
       <Features />
       <Benefits />
